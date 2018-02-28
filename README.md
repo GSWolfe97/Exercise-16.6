@@ -2,7 +2,7 @@
 Write a program that sets the horizontal alignment and column-size properties of a text field dynamically, as shown in figure 16.38a.  
 
 ## Example Output
-![Sample Output](README.png)
+![Sample Output](README.PNG)
 
 ## Analysis Steps
 
